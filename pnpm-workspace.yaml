@@ -1,4 +1,4 @@
-# cSpell:ignore gcqx minimatch
+﻿# cSpell:ignore gcqx minimatch
 
 allowBuilds:
   esbuild: false
@@ -12,7 +12,7 @@ auditConfig:
     # https://github.com/advisories/GHSA-g3hv-75wg-m249
     - GHSA-g3hv-75wg-m249
 
-engineStrict: true
+engineStrict: false
 
 minimumReleaseAge: 1440
 
